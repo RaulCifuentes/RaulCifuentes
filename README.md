@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Welcome to my page! </br> I'm Raúl, Fullstack developer from 🇨🇴, currently living in 🇨🇦 and previously in 🇨🇱.
+I'm Raúl, Fullstack developer from 🇨🇴, currently living in 🇨🇦 and previously in 🇨🇱.
 
-### Some of the tools I've used to code the stuff around here
-
-
+#### Some of the tools I've used to code the stuff around here
 |   |   |   | 
 |---|---|---|
 |![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E)||![Static Badge](https://img.shields.io/badge/HTML-black?logo=html5&logoColor=E34F26)|
