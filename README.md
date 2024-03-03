@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Raúl, Fullstack developer from 🇨🇴, currently living in 🇨🇦 and previously in 🇨🇱.
+I'm Raúl, from 🇨🇴, currently living in 🇨🇦 and previously in 🇨🇱.
+
+Love JS, CSS and the whole web ecosystem. 
 
 #### Some of the tools I've used to code the stuff around here
 |   |   |   | 
